@@ -1,4 +1,4 @@
-! Title: JarekCre
+! Title: JarekCre Blocklist
 ! Description: Caught domains circumventing my other block lists. Feel free to use.
 
 ||axonixgrid.com^

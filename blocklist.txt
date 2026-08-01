@@ -12,3 +12,4 @@
 
 ! This is required for push notifications. Discord and other app notifications were being blocked.
 @@||fcm.googleapis.com^
+@@||mtalk.google.com^

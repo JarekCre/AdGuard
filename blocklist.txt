@@ -3,3 +3,9 @@
 
 ||axonixgrid.com^
 ||videowalldirect.com^
+||graph.facebook.com^$important
+||nfflr-us.bidmachine.io^$important
+@@||telemetry.gfe.nvidia.com^$important
+@@||events.gfe.nvidia.com^$important
+@@||gx-target-experiments-frontend-api.gx.nvidia.com^$important
+||cdn.fwupd.org^$important

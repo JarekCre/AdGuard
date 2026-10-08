@@ -15,6 +15,9 @@
 ||*.doubleclick.net^
 ||x.mdhv.io^
 ||s.surveyplanet.com^
+||trace.overwolf.com^
+||analytics.overwolf.com^
+||events.overwolf.com^
 
 
 ! This is required for push notifications. Discord and other app notifications were being blocked.

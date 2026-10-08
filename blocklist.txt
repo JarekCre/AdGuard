@@ -13,6 +13,8 @@
 ||overwolf-ads.com^
 ||aniview.com^
 ||*.doubleclick.net^
+||x.mdhv.io^
+||s.surveyplanet.com^
 
 
 ! This is required for push notifications. Discord and other app notifications were being blocked.

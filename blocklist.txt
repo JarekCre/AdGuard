@@ -10,6 +10,10 @@
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^$important
 ||cdn.fwupd.org^$important
 ||cs.krushmedia.com^
+||overwolf-ads.com^
+||aniview.com^
+||*.doubleclick.net^
+
 
 ! This is required for push notifications. Discord and other app notifications were being blocked.
 @@||fcm.googleapis.com^

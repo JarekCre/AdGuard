@@ -9,6 +9,7 @@
 @@||events.gfe.nvidia.com^$important
 @@||gx-target-experiments-frontend-api.gx.nvidia.com^$important
 ||cdn.fwupd.org^$important
+||cs.krushmedia.com^
 
 ! This is required for push notifications. Discord and other app notifications were being blocked.
 @@||fcm.googleapis.com^
